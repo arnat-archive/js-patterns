@@ -1,0 +1,7 @@
+name: js-pattern-singleton
+description: Ensures that only one object of a particular class is ever created.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.47 <0.1.0"

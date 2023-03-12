@@ -1,3 +1,6 @@
 factory
 abstract-factory
 simple-factory
+builder
+prototype
+singleton
