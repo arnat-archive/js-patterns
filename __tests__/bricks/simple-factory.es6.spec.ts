@@ -1,4 +1,4 @@
-import DoorFactory from "../bricks/simple-factory/__brick__/simple-factory.es6";
+import DoorFactory from "../../bricks/simple-factory/__brick__/simple-factory.es6";
 
 describe("Factory es6 test", () => {
   it("We can create a WoodenDoor instance", () => {

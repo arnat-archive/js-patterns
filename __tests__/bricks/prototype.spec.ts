@@ -1,4 +1,7 @@
-import { Sheep, SheepPrototype } from "../bricks/prototype/__brick__/prototype";
+import {
+  Sheep,
+  SheepPrototype,
+} from "../../bricks/prototype/__brick__/prototype";
 
 describe("Factory es6 test", () => {
   it("We can create a clone Sheep from prototype", () => {

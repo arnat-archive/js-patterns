@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "",
+    "build:mason": "",
+    "build:vscode": ""
   },
   "author": "Arnat Technologies",
   "license": "MIT",

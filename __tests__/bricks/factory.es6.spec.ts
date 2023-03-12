@@ -1,4 +1,4 @@
-import BmwFactory from "../bricks/factory/__brick__/factory.es6";
+import BmwFactory from "../../bricks/factory/__brick__/factory.es6";
 
 describe("Factory es6 test", () => {
   it("We can create a X5 instance", () => {

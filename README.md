@@ -26,3 +26,16 @@ mason --list --global
 # Run a specific snippet
 mason make js-simple-factory
 ```
+
+## Todo
+
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] Visitor
+- [ ] Strategy
+- [ ] State
+- [ ] Template Method

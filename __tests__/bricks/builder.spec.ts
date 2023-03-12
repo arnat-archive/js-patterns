@@ -1,4 +1,4 @@
-import { BurgerBuilder } from "../bricks/builder/__brick__/builder";
+import { BurgerBuilder } from "../../bricks/builder/__brick__/builder";
 
 describe("Factory es6 test", () => {
   it("We can create a Burger instance", () => {

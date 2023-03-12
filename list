@@ -4,3 +4,10 @@ simple-factory
 builder
 prototype
 singleton
+adapter
+bridge
+composite
+decorator
+facade
+flyweight
+proxy

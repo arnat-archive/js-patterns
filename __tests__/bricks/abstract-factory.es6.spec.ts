@@ -1,7 +1,7 @@
 import {
   WoodenDoorFactory,
   IronDoorFactory,
-} from "../bricks/abstract-factory/__brick__/abstract-factory.es6";
+} from "../../bricks/abstract-factory/__brick__/abstract-factory.es6";
 
 describe("Factory es6 test", () => {
   it("We can create a WoodenDoorFactory instance", () => {

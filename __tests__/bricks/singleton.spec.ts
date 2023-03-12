@@ -1,7 +1,7 @@
-import Singleton from "../bricks/singleton/__brick__/singleton";
-import SingletonES6 from "../bricks/singleton/__brick__/singleton.es6";
-import SingletonClosure from "../bricks/singleton/__brick__/singleton.closure";
-import SingletonInstance from "../bricks/singleton/__brick__/singleton.function";
+import Singleton from "../../bricks/singleton/__brick__/singleton";
+import SingletonES6 from "../../bricks/singleton/__brick__/singleton.es6";
+import SingletonClosure from "../../bricks/singleton/__brick__/singleton.closure";
+import SingletonInstance from "../../bricks/singleton/__brick__/singleton.function";
 
 describe("Factory es6 test", () => {
   it("We can create a singleton", () => {
