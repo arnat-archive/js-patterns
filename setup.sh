@@ -1,10 +1,5 @@
 #!/bin/bash
 
-echo "\Following instructions from: https://github.com/felangel/mason/tree/master/packages/mason_cli\n"
-
-echo "> Activate from https://pub.dev"
-dart pub global activate mason_cli
-
 echo "> Installing JavaScript/TypeScript Patterns"
 
 templates=( $(cat ./list) )
