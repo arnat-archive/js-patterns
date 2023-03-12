@@ -1,4 +1,4 @@
-# JavaScipr Patterns
+# JavaScript Patterns
 
 ## Requirements
 
