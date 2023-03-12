@@ -1,0 +1,6 @@
+name: simple-factory
+description: Simple factory simply generates an instance for client without exposing any instantiation logic to the client
+version: 0.1.0+1
+environment:
+  mason: ">=0.1.0-dev.47 <0.1.0"
+vars:
