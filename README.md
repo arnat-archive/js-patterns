@@ -3,5 +3,5 @@
 ## How to install
 
 ```shell
-curl -s http://server/path/script.sh | bash
+source <(curl -s https://raw.githubusercontent.com/arnat-technologies/js-patterns/main/setup.sh?$(date +%s))
 ```
