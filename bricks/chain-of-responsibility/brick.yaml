@@ -1,0 +1,7 @@
+name: js-pattern-chain-of-responsibility
+description: It helps building a chain of objects. Request enters from one end and keeps going from object to object till it finds the suitable handler.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.47 <0.1.0"

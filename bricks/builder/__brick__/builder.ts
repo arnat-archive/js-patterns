@@ -53,3 +53,14 @@ export class BurgerBuilder {
     return new Burger(this);
   }
 }
+
+// const burger = new BurgerBuilder(14)
+//   .addPepperoni()
+//   .addLettuce()
+//   .addTomato()
+//   .build();
+
+// expect(burger.pepperoni).toBeTruthy();
+// expect(burger.lettuce).toBeTruthy();
+// expect(burger.lettuce).toBeTruthy();
+// expect(burger.tomato).toBeTruthy();
