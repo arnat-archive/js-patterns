@@ -13,7 +13,7 @@ dart pub global activate mason_cli
 ## How to install
 
 ```shell
-# source <(curl -s https://raw.githubusercontent.com/arnat-technologies/js-patterns/main/setup.sh?$(date +%s))
+# Installing templates
 curl -s "https://raw.githubusercontent.com/arnat-technologies/js-patterns/main/setup.sh?$(date +%s)" | bash
 ```
 
