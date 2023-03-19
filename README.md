@@ -14,7 +14,7 @@ dart pub global activate mason_cli
 
 ```shell
 # source <(curl -s https://raw.githubusercontent.com/arnat-technologies/js-patterns/main/setup.sh?$(date +%s))
-curl -s https://raw.githubusercontent.com/arnat-technologies/js-patterns/main/setup.sh?$(date +%s) | bash
+curl -s "https://raw.githubusercontent.com/arnat-technologies/js-patterns/main/setup.sh?$(date +%s)" | bash
 ```
 
 ## How to use
