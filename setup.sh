@@ -10,4 +10,7 @@ for tmpl in "${templates[@]}"; do
   mason add js-pattern-$tmpl --git-url https://github.com/arnat-technologies/js-patterns.git --git-path bricks/$tmpl --global
 done
 
-echo -n "\n All patterns available via: \n\nmason list --global"
+echo ""
+echo "All patterns available via:"
+echo "mason list --global"
+echo ""
