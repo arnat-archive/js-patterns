@@ -1,5 +1,7 @@
 # JavaScript Patterns
 
+Deprecated in favour of [Arnat-Starter](https://github.com/arnat-technologies/arnat-starter)
+
 ## Requirements
 
 - Dart
